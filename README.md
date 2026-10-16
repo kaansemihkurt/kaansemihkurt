@@ -1,6 +1,6 @@
 <!-- ÜST BAŞLIK -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=ADINIZ%20SOYADINIZ&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Big%20Data%20Analytics%20%E2%80%A2%20AI%20%E2%80%A2%20Game%20Development&descSize=18&descAlignY=58" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=KAAN SEMİH%20KURT&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Big%20Data%20Analytics%20%E2%80%A2%20AI%20%E2%80%A2%20Game%20Development&descSize=18&descAlignY=58" width="100%"/>
 </p>
 
 <p align="center">
