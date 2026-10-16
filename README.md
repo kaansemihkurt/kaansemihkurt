@@ -69,12 +69,20 @@
 <h2 align="center">📈 GitHub İstatistikleri</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kaansemihkurt&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaansemihkurt&layout=compact&theme=radical&hide_border=true&bg_color=0d1117"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=2" width="60%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaansemihkurt&theme=radical&hide_border=true&background=0d1117"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kaansemihkurt&show_icons=true&hide_border=true&border_radius=12&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&icon_color=8b5cf6&ring_color=8b5cf6&rank_icon=github&include_all_commits=true&locale=tr&custom_title=GitHub%20Özeti"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaansemihkurt&layout=donut-vertical&langs_count=6&hide_border=true&border_radius=12&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&locale=tr"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=kaansemihkurt&locale=tr&hide_border=true&border_radius=12&background=0d1117&stroke=30363d&ring=8b5cf6&fire=a78bfa&currStreakNum=e6edf3&currStreakLabel=a78bfa&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&date_format=j%20M%5B%20Y%5D"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaansemihkurt&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=e6edf3&area=true&area_color=8b5cf6&hide_border=true&custom_title=Katkı%20Grafiği"/>
 </p>
 
 <p align="center">
