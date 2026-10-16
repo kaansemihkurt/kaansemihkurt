@@ -8,8 +8,8 @@
 
 <p align="center">
   <a href="https://kaansemihkurt.vercel.app"><img src="https://img.shields.io/badge/-kaansemihkurt.vercel.app-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" alt="kaansemihkurt.vercel.app"/></a>
-  <a href="mailto:archforlive@gmail.com"><img src="https://img.shields.io/badge/-archforlive%40gmail.com-14265a?style=for-the-badge&logo=gmail&logoColor=c4b5fd" alt="archforlive@gmail.com"/></a>
-  <img src="https://img.shields.io/badge/Manisa%20Celal%20Bayar%20University-1e1b4b?style=for-the-badge&logo=academia&logoColor=c4b5fd" alt="Manisa Celal Bayar University"/>
+  <a href="https://kaansemihkurt.vercel.app/mail.html"><img src="https://img.shields.io/badge/-archforlive%40gmail.com-14265a?style=for-the-badge&logo=gmail&logoColor=c4b5fd" alt="archforlive@gmail.com"/></a>
+  <a href="https://manisamyo.mcbu.edu.tr"><img src="https://img.shields.io/badge/Manisa%20Celal%20Bayar%20University-1e1b4b?style=for-the-badge&logo=academia&logoColor=c4b5fd" alt="Manisa Celal Bayar University"/></a>
   <img src="https://komarev.com/ghpvc/?username=kaansemihkurt&style=for-the-badge&color=6d28d9&labelColor=0b1430&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
