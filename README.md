@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://kaansemihkurt.vercel.app"><img src="https://img.shields.io/badge/Portfolio-kaansemihkurt.vercel.app-6d28d9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0b1430" alt="Portfolio"/></a>
-  <a href="mailto:archforlive@gmail.com"><img src="https://img.shields.io/badge/Email-archforlive%40gmail.com-14265a?style=for-the-badge&logo=gmail&logoColor=c4b5fd&labelColor=0b1430" alt="Email"/></a>
+  <a href="https://kaansemihkurt.vercel.app"><img src="https://img.shields.io/badge/%20-%20-6d28d9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=6d28d9" alt="Portfolio" title="Portfolio"/></a>
+  <a href="mailto:archforlive@gmail.com"><img src="https://img.shields.io/badge/%20-%20-14265a?style=for-the-badge&logo=gmail&logoColor=c4b5fd&labelColor=14265a" alt="Email" title="Email"/></a>
   <img src="https://img.shields.io/badge/Manisa%20Celal%20Bayar%20University-1e1b4b?style=for-the-badge&logo=academia&logoColor=c4b5fd" alt="Manisa Celal Bayar University"/>
   <img src="https://komarev.com/ghpvc/?username=kaansemihkurt&style=for-the-badge&color=6d28d9&labelColor=0b1430&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
@@ -106,6 +106,16 @@ During high school I studied mechanical technology and completed a 9-month inter
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=kaansemihkurt&locale=en&border_radius=12&background=0b1430&border=1e2a5a&stroke=1e2a5a&ring=8b5cf6&fire=a78bfa&currStreakNum=e0e7ff&currStreakLabel=a78bfa&sideNums=c7d2fe&sideLabels=93a4d6&dates=93a4d6&date_format=j%20M%5B%20Y%5D" alt="GitHub streak"/>
+</p>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:060b1d,50:6d28d9,100:5ea6ff&height=2" width="100%" alt=""/></p>
+
+<h2 align="center">Kısaca</h2>
+
+<p align="center">
+Merhaba! Ben Kaan Semih Kurt. Manisa Celal Bayar Üniversitesi'nde Büyük Veri Analistliği okuyorum.<br/>
+Veriyi anlamlı hâle getirmeyi, yapay zekâ çözümleri geliştirmeyi ve oyun prototipleri yapmayı seviyorum.<br/>
+Staj ve iş fırsatlarına açığım; benimle iletişime geçebilirsin.
 </p>
 
 <p align="center">
