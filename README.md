@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://kaansemihkurt.vercel.app"><img src="https://img.shields.io/badge/%20-%20-6d28d9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=6d28d9" alt="Portfolio" title="Portfolio"/></a>
-  <a href="mailto:archforlive@gmail.com"><img src="https://img.shields.io/badge/%20-%20-14265a?style=for-the-badge&logo=gmail&logoColor=c4b5fd&labelColor=14265a" alt="Email" title="Email"/></a>
+  <a href="https://kaansemihkurt.vercel.app"><img src="https://img.shields.io/badge/-kaansemihkurt.vercel.app-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" alt="kaansemihkurt.vercel.app"/></a>
+  <a href="mailto:archforlive@gmail.com"><img src="https://img.shields.io/badge/-archforlive%40gmail.com-14265a?style=for-the-badge&logo=gmail&logoColor=c4b5fd" alt="archforlive@gmail.com"/></a>
   <img src="https://img.shields.io/badge/Manisa%20Celal%20Bayar%20University-1e1b4b?style=for-the-badge&logo=academia&logoColor=c4b5fd" alt="Manisa Celal Bayar University"/>
   <img src="https://komarev.com/ghpvc/?username=kaansemihkurt&style=for-the-badge&color=6d28d9&labelColor=0b1430&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
@@ -110,13 +110,15 @@ During high school I studied mechanical technology and completed a 9-month inter
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:060b1d,50:6d28d9,100:5ea6ff&height=2" width="100%" alt=""/></p>
 
-<h2 align="center">Kısaca</h2>
-
-<p align="center">
+<div align="center">
+<details>
+<summary><b>Kısaca (Türkçe)</b></summary>
+<br/>
 Merhaba! Ben Kaan Semih Kurt. Manisa Celal Bayar Üniversitesi'nde Büyük Veri Analistliği okuyorum.<br/>
 Veriyi anlamlı hâle getirmeyi, yapay zekâ çözümleri geliştirmeyi ve oyun prototipleri yapmayı seviyorum.<br/>
 Staj ve iş fırsatlarına açığım; benimle iletişime geçebilirsin.
-</p>
+</details>
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060b1d,45:14265a,100:6d28d9&height=120&section=footer&v=3" width="100%" alt=""/>
