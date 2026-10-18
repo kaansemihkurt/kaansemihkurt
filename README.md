@@ -116,7 +116,7 @@ During high school I studied mechanical technology and completed a 9-month inter
 <br/>
 Merhaba! Ben Kaan Semih Kurt. Manisa Celal Bayar Üniversitesi'nde Büyük Veri Analistliği okuyorum.<br/>
 Veriyi anlamlı hâle getirmeyi, yapay zekâ çözümleri geliştirmeyi ve oyun prototipleri yapmayı seviyorum.<br/>
-Staj ve iş fırsatlarına açığım; benimle iletişime geçebilirsin.
+Staj ve iş fırsatlarına açığım; benimle iletişime geçebilirsin. :)
 </details>
 </div>
 
